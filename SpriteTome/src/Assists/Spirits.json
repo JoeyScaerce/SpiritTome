@@ -1,0 +1,37 @@
+[
+	{
+		"spiritId": 1,
+		"name": "Linine",
+		"type": "fire",
+		"baseHp": 10,
+		"baseAtk": 20,
+		"baseDef": 100,
+		"baseSpAtk": 200,
+		"baseSpDef": 30,
+		"baseSpeed": 20,
+		"move":[
+			1,
+			2,
+			3,
+			100
+		],
+		"EvolvesTo ":3
+	},
+	{
+		"spiritId": 2,
+		"name": "Specound",
+		"baseHp": 15,
+		"baseAtk": 10,
+		"baseDef": 200,
+		"baseSpAtk": 500,
+		"baseSpDef": 10,
+		"baseSpeed": 10,
+		"move":[
+			1
+		],
+		"moveLearnList": [
+			1
+		],
+		"EvolvesTo ":2
+	}
+]
